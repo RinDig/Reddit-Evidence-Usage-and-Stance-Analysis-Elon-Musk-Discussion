@@ -8,6 +8,9 @@ The core idea is that evidence alone doesn't guarantee persuasion online; its re
 
 **--> For the complete methodology, code implementation, detailed analysis, and findings, please refer to the Jupyter Notebook: [`Computational_Notebook.ipynb`](Computational_Notebook.ipynb) <--**
 
+
+![Screenshot 2025-04-07 203310](https://github.com/user-attachments/assets/8f350117-c418-442c-b9cc-99c96ab5b623)
+
 ## Research Focus
 
 This analysis aims to address questions such as:
